@@ -1,3 +1,3 @@
 # Griptape Cloud Webhook Test
 
-In this essay, I will
+In this essay, I will...
